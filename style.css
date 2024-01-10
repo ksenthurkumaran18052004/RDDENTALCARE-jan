@@ -1,0 +1,42 @@
+/* styles.css */
+
+/* Navbar Styling */
+.navbar {
+    background-color: #d6e018; /* Purple background color for navbar */
+    color: #62321f; /* White text color for navbar */
+}
+
+/* Your custom styles */
+.banner-conter-area {
+    background: linear-gradient(to right, #6a0dad, #ff80ab); /* Double fading color effect */
+    color: #fff; /* White text color */
+    border-radius: 15px; /* Curved edges */
+    padding: 50px 0; /* Adjust padding as needed */
+}
+
+/* Counter box styling */
+.usp_box {
+    text-align: center;
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #86257f; /* Purple background color for counter boxes */
+    color: #fff; /* White text color for counter boxes */
+    font-weight: bold; /* Bold text */
+}
+
+/* Styling for the small box (card-header) */
+.card-header {
+    border-radius: 15px 15px 0 0;
+    background: linear-gradient(to right, #e6fffb, #f6f5f5); /* Double fading color effect */
+    color: #333; /* Text color */
+    padding: 10px;
+}
+
+/* Styling for the larger curved edge box (card-body) */
+.card-body {
+    border-radius: 0 0 15px 15px;
+    background: linear-gradient(to right, #f6f5f5, #e6fffb); /* Double fading color effect */
+    color: #333; /* Text color */
+    font-weight: bold; /* Bold text */
+}
